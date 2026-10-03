@@ -1,19 +1,10 @@
-# React Task Manager (Part 1)
+# React Task Manager 
 
 A component-driven Task Manager built with React and Vite for the AUREX Internship Program, Month 2, Week 1.
 
 ## Live Demo
 https://hamna-task-manager.netlify.app
 
-## Screenshots
-
-
-![Home](screenshots/home.png)
-
-
-
-
-![Tasks](screenshots/tasks.png)
 
 
 
